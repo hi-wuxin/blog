@@ -1,0 +1,14 @@
+[databases]
+    [databases.mysql]
+    addr="127.0.0.1"
+    port=3306
+    name="root"
+    password="32983jndinew8y8732.."
+    database="blog"
+    [databases.redis]
+    addr="127.0.0.1"
+    port=6379
+    password="32983jndinew8y8732.."
+[oss]
+    ak=""
+    sk=""
